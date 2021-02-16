@@ -1,0 +1,13 @@
+.navColor {
+    background-color: #08605f;
+}
+
+p {
+    color: #08605f;
+}
+.table-wrapper {
+    max-height: 70vh;
+    overflow: auto;
+    display: inline-block;
+    width: 100%;
+}
